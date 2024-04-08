@@ -9,6 +9,7 @@ Dit programma bevat de code om een Monte Carlo simulatie met en zonder antitheti
 Dit programma bevat de code om het Acceptance-Rejection algoritme uit te voeren. Verder bevat het een stukje dat het sample gegenereerd door Acceptance-Rejection visualiseert om te bekijken hoe nauwkeurig de mu en sigma2 schatters zijn van het sample.
 
 ## Basisproject.py
+Dit programma bevat de code om een Monte Carlo simulatie zonder variantie reductie, met antithetic variates, met control variates én met antithetic en control variates uit te voeren. De functies berekenen de call-optie schatter en variantie van de verschillende Monte Carlo simulaties met en zonder variantiereductie.
 
 ## Control Variates.py
 Dit programma bevat de code om een Monte Carlo simulatie met en zonder control variates toe te passen. De functies berekenen de call-optie schatter en variantie van de Monte Carlo simulatie met en zonder control variates toegepast.
